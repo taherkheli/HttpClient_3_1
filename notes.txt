@@ -1,0 +1,15 @@
+
+installed dotnet core sdk 3.1.101
+https://dotnet.microsoft.com/download/dotnet-core/thank-you/sdk-3.1.101-windows-x64-installer
+
+*not needed
+cloned 
+root:
+C:\bilal\school\ps\web-api\01-httpclient
+$ git clone https://github.com/KevinDockx/HttpClientInNetCore.git
+
+
+installed NSwagStudio
+https://github.com/RicoSuter/NSwag/wiki/NSwagStudio
+
+
